@@ -1,0 +1,12 @@
+@media (min-width: 992px) {
+
+    .altura {
+        height: 100vh;
+    }
+}
+
+
+
+.lista{
+    max-width: 1400px;
+}
